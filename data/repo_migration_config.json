@@ -1,0 +1,12 @@
+{"svn":{"user":"svn_user", 
+		"password":"svn_pwd"
+	   },
+"github":{	"user":"github_user", 
+			"password":"github_pwd", 	 
+			"has_wiki": true,
+			"has_downloads": true,
+			"has_issues":true,
+			"organization":"INDG"
+		}, 
+	"local_git_directory": "repos" 	
+}
